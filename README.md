@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **react.js, express.js, mongodb , node.js , bootstrap**
 
-- 👯 I’m looking to collaborate on **Student Management System**
-
 - 🤝 I’m looking for help with **backend implemention**
 
 - 📫 How to reach me **sahilkolekar0044@gmail.com**
