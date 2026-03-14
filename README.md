@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **sahilkolekar0044@gmail.com**
 
-- ⚡ Fun fact **I am learning this alone**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
